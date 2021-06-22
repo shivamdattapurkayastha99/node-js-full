@@ -1,0 +1,13 @@
+{
+  "name": "shivam",
+  "version": "1.0.0",
+  "description": "its an amazing package made by me shivam datta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivam datta",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
